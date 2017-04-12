@@ -7,7 +7,7 @@
 		<input type="submit" value="Send" /> 
 	</form>
 	
-	<h1> TORNA INDIETRO 
+	<h1> TORNA INDIETRO </h1>
 	
 	
 	
